@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyNotes</string>
+    <string name="welcome_screen_title">Note your life</string>
+    <string name="notes_screen_title">Notes</string>
+    <string name="successfully_saved">Note created</string>
+    <string name="successfully_deleted">Note deleted</string>
+</resources>
